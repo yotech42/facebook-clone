@@ -1,0 +1,96 @@
+body {
+  background-color: #e4e6e8;
+}
+
+.right {
+  height: 338px;
+  width: 412px;
+  background-color: white;
+  float: right;
+  padding: 13px;
+  margin: 200px 300px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+}
+
+.formcontrol input {
+  border-radius: 5px;
+  border: 1px solid #dddfe2;
+  margin: 20px auto;
+  display: flex;
+  padding: 16px 16px;
+  width: 366px;
+}
+
+.left {
+  position: relative;
+  margin: 100px 100px;
+  /* border: 1px solid blue; */
+  float: left;
+  left: 98px;
+  top: 140px;
+  height: 324px;
+  width: 388px;
+  left: 205px;
+}
+.subbtn {
+  cursor: pointer;
+  display: contents;
+  border-radius: 6px;
+  border: none;
+  font-size: 20px;
+  color: #ffffff;
+  background-color: #1877f2;
+}
+
+.forbtn {
+  bottom: 10px;
+  position: relative;
+  left: 150px;
+  cursor: pointer;
+  color: #1877f2;
+  font-size: 18px;
+  font-weight: 500;
+  text-decoration: none;
+  text-align: center;
+}
+
+.forbtn:hover {
+  text-decoration: underline;
+}
+
+.formcontrol button {
+  font-size: 16px;
+  left: 26%;
+  position: relative;
+  width: 204px;
+  padding: 12px 19px;
+}
+
+.createbtn {
+  border-radius: 5px;
+  color: white;
+  background-color: #36a420;
+  border-top: 1px solid red;
+  border: 10px;
+  font-size: 15px;
+  cursor: pointer;
+  margin: auto;
+}
+hr {
+  color: #f0f2f5;
+}
+
+.left h1 {
+  color: #1877f2;
+  font-size: 50px;
+}
+
+.left p {
+  position: relative;
+  font-size: 28px;
+  font-weight: normal;
+  line-height: 32px;
+  width: 500px;
+  bottom: 24px;
+}
